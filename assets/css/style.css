@@ -1,0 +1,23 @@
+body, 
+html {
+	min-height: 100%;
+}
+
+body {
+	background-image: url("../../assets/images/backgroun.jpg");
+	background-size:cover;
+	background-repeat: no-repeat;
+}
+
+#wrapper {
+	color: white;
+
+}
+
+#start {
+	color: black;
+}
+
+#start-over {
+	color: black;
+}
