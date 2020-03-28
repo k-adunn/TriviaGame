@@ -49,7 +49,7 @@ correctAnswer: "Korriban",
 var game = {
 correct:0,
 incorrect:0,
-counter:120,
+counter:60,
 
 countdown: function(){
     game.counter--;
